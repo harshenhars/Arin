@@ -1,6 +1,6 @@
 This repository contains a reproducible Python workflow for automated bulk downloading of ALOS PALSAR RTC_HI_RES products from ASF Data Search (Vertex). The workflow runs in Google Colab and stores outputs directly in mounted Google Drive directories.
 
-Key Features
+<b> Key Features </b>
 
 Integration with ASF bulk download scripts
 
